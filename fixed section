@@ -1,0 +1,25 @@
+<div class="container bg-dark mx-auto">
+    <div class="row">
+        <div class="col-md-10 pt-3 pb-2">
+            <p class="text-light text-center">
+                We use cookies to give you the most relevant experience by remembering your preferences and repeat
+                visits. By clicking “I accept”, you consent to the use of ALL the cookies.
+            </p>
+        </div>
+    </div>
+    <div class="row d-flex">
+        <div class="col-md-4 pb-3 mx-auto bbb">
+            <button type="button" class="btn btn-danger">
+                <a>I accept</a>
+            </button>
+        </div>
+        <div class="col-md-4 ccc">
+            <button type="button" class="btn btn-dark">
+                <a>I want to choose</a>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- fixed section end -->
+
